@@ -1,8 +1,78 @@
 body{
 	background-color: #3d2e16;
+	font-size: 14pt;
 }
 header h1{
 	font-family: NevisBold;
-	font-size: 18pt;
+	font-size: 30pt;
 	color: #cac8af;
+	text-shadow: 2px 1px 2px #000;
+	text-transform: uppercase;
+
 }
+header h2{
+	font-family: georgia;
+	color: #af9671;
+	font-size: 18pt;
+	font-style: italic;
+	text-shadow: 2px 1px 2px #000;
+}
+body {
+	color: #cfcdb4;
+}
+h1{
+	color: #ea9f3e;
+	font-weight: normal;
+}
+h2{
+	color: #ea9f3e;
+	font-weight: normal;
+}
+h3{
+	color: #af9671;
+
+}
+a{
+	color: #ea9f3e;
+	text-decoration: none;
+}
+header a{
+	color: #af9671;
+	font-size: 18pt;
+	font-family: arial;
+	text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
+article h1{
+	text-transform: uppercase;
+	font-family: arial;
+}
+section h1{
+	text-transform: uppercase;
+	font-family: arial;
+}
+section h2{
+	text-transform: uppercase;
+	font-family: arial;
+}
+p{
+	font-family: georgia;
+	font-size: 14pt;
+}
+section ul li{
+	font-family: georgia;
+}
+address{
+	font-style: normal;
+}
+section a{
+	color: #af9671;
+}
+section address{
+	color: #ea9f3e;
+}
+
+	/*about me stb betu vastagsagot at allitani
+	betu olvashatosag*/
