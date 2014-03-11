@@ -4,18 +4,23 @@ body{
 }
 header h1{
 	font-family: NevisBold;
-	font-size: 30pt;
+	font-size: 29px;
 	color: #cac8af;
-	text-shadow: 2px 1px 2px #000;
+	text-shadow: 3px 3px 2px #000;
 	text-transform: uppercase;
+
 
 }
 header h2{
 	font-family: georgia;
 	color: #af9671;
-	font-size: 18pt;
+	font-size: 13pt;
 	font-style: italic;
 	text-shadow: 2px 1px 2px #000;
+}
+header nav a{
+	color: #af9671;
+	font-size: 17px;
 }
 body {
 	color: #cfcdb4;
@@ -23,13 +28,17 @@ body {
 h1{
 	color: #ea9f3e;
 	font-weight: normal;
+	font-size: 18px;
+
 }
 h2{
 	color: #ea9f3e;
 	font-weight: normal;
+	font-size: 18px;
 }
 h3{
 	color: #af9671;
+	font-size: 14px;
 
 }
 a{
@@ -52,6 +61,7 @@ article h1{
 section h1{
 	text-transform: uppercase;
 	font-family: arial;
+
 }
 section h2{
 	text-transform: uppercase;
@@ -59,7 +69,7 @@ section h2{
 }
 p{
 	font-family: georgia;
-	font-size: 14pt;
+	font-size: 14px;
 }
 section ul li{
 	font-family: georgia;
@@ -67,11 +77,25 @@ section ul li{
 address{
 	font-style: normal;
 }
-section a{
+section address a{
+	color: #ea9f3e;
+}
+section li a{
 	color: #af9671;
+	font-size: 14px;
 }
 section address{
-	color: #ea9f3e;
+	color: #cfcdb4;
+	font-size: 14px;
+}
+section ul li {
+	font-size: 14px;
+}
+div a:last-child {
+	font-size: 14px;
+}
+footer small{
+	font-size: 14px;
 }
 
 	/*about me stb betu vastagsagot at allitani
